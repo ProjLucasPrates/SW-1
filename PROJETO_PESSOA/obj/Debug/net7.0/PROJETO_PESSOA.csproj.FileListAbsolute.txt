@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\bin\Debug\net7.0\PROJETO_PESSOA.exe
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\bin\Debug\net7.0\PROJETO_PESSOA.deps.json
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\bin\Debug\net7.0\PROJETO_PESSOA.runtimeconfig.json
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\bin\Debug\net7.0\PROJETO_PESSOA.dll
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\bin\Debug\net7.0\PROJETO_PESSOA.pdb
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.dll
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\refint\PROJETO_PESSOA.dll
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.pdb
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\PROJETO_PESSOA.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\PROJETO_PESSOA\obj\Debug\net7.0\ref\PROJETO_PESSOA.dll
