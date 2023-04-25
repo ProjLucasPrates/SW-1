@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\EXERCICIO\bin\Debug\net7.0\EXERCICIO.exe
+C:\Users\LAB4\Desktop\EXERCICIO\bin\Debug\net7.0\EXERCICIO.deps.json
+C:\Users\LAB4\Desktop\EXERCICIO\bin\Debug\net7.0\EXERCICIO.runtimeconfig.json
+C:\Users\LAB4\Desktop\EXERCICIO\bin\Debug\net7.0\EXERCICIO.dll
+C:\Users\LAB4\Desktop\EXERCICIO\bin\Debug\net7.0\EXERCICIO.pdb
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.dll
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\refint\EXERCICIO.dll
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.pdb
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\EXERCICIO.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\EXERCICIO\obj\Debug\net7.0\ref\EXERCICIO.dll
