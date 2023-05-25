@@ -1,0 +1,5 @@
+C:\Users\Thaís\Desktop\exe03\obj\Debug\net7.0\exe03.csproj.AssemblyReference.cache
+C:\Users\Thaís\Desktop\exe03\obj\Debug\net7.0\exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaís\Desktop\exe03\obj\Debug\net7.0\exe03.AssemblyInfoInputs.cache
+C:\Users\Thaís\Desktop\exe03\obj\Debug\net7.0\exe03.AssemblyInfo.cs
+C:\Users\Thaís\Desktop\exe03\obj\Debug\net7.0\exe03.csproj.CoreCompileInputs.cache
